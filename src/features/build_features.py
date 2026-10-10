@@ -14,7 +14,6 @@ from __future__ import annotations
 import logging
 from typing import List
 
-import nonexistent_lib
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
